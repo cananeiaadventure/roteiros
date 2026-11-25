@@ -1,4 +1,4 @@
-[LEIA-ME.txt](https://github.com/user-attachments/files/35383557/LEIA-ME.txt)
+
 CANANÉIA ADVENTURE — ARQUIVOS DO SITE
 ======================================
 
